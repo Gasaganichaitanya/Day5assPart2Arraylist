@@ -1,0 +1,7 @@
+D:\mphasis\assignments\day5\part2\ConApp arraylist asspart2\ConApp arraylist asspart2\bin\Debug\ConApp arraylist asspart2.exe.config
+D:\mphasis\assignments\day5\part2\ConApp arraylist asspart2\ConApp arraylist asspart2\bin\Debug\ConApp arraylist asspart2.exe
+D:\mphasis\assignments\day5\part2\ConApp arraylist asspart2\ConApp arraylist asspart2\bin\Debug\ConApp arraylist asspart2.pdb
+D:\mphasis\assignments\day5\part2\ConApp arraylist asspart2\ConApp arraylist asspart2\obj\Debug\ConApp arraylist asspart2.csproj.AssemblyReference.cache
+D:\mphasis\assignments\day5\part2\ConApp arraylist asspart2\ConApp arraylist asspart2\obj\Debug\ConApp arraylist asspart2.csproj.CoreCompileInputs.cache
+D:\mphasis\assignments\day5\part2\ConApp arraylist asspart2\ConApp arraylist asspart2\obj\Debug\ConApp arraylist asspart2.exe
+D:\mphasis\assignments\day5\part2\ConApp arraylist asspart2\ConApp arraylist asspart2\obj\Debug\ConApp arraylist asspart2.pdb
